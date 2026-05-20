@@ -57,6 +57,8 @@ apis:
       - type: Documentation
         url: https://www.zoetis.com/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/zoetis
   - type: Website
     url: https://www.zoetis.com
   - type: Documentation
