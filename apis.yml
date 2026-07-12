@@ -57,6 +57,10 @@ apis:
       - type: Documentation
         url: https://www.zoetis.com/
 common:
+  - type: DomainSecurity
+    url: security/zoetis-domain-security.yml
+  - url: https://www.zoetis.com/news-and-insights/innovators-for-animals
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/zoetis
   - type: Website
