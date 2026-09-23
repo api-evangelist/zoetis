@@ -1,7 +1,9 @@
 ---
 title: 'Zoetis''s AI Strategy: Analysis of Dominance in Animal ...'
 url: https://www.klover.ai/zoetis-ai-strategy-analysis-of-dominance-in-animal-health-ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Zoetis" press release artificial intelligence'
 position: 3
 source: serpapi-google

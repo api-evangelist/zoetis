@@ -1,7 +1,9 @@
 ---
 title: Transforming drug discovery and development with ...
 url: https://www.zoetis.com/news-and-insights/blog/transforming-drug-discovery-and-development-with-generative-ai
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Zoetis" press release artificial intelligence'
 position: 1
 source: serpapi-google
