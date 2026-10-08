@@ -80,6 +80,12 @@ apis:
       - type: Documentation
         url: https://www.zoetis.com/
 common:
+  - type: Plans
+    url: plans/zoetis-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/zoetis-rate-limits.yml
+  - type: FinOps
+    url: finops/zoetis-finops.yml
   - type: DomainSecurity
     url: security/zoetis-domain-security.yml
   - url: https://www.zoetis.com/news-and-insights/innovators-for-animals
